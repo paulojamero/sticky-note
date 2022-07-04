@@ -3,3 +3,5 @@
 
 
 #Important: Use mouse wheel down to delete notes. 
+
+https://paulojamero.github.io/sticky-note/
