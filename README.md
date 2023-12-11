@@ -1,5 +1,5 @@
 # sticky-note
-# This repo is part of my learning process. 
+# Part of learning javascript. 
 
 
 #Important: Use mouse wheel down to delete notes. 
